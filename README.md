@@ -15,9 +15,6 @@
 <a href="https://www.facebook.com/meroitachi98">
   <img align="left" alt="MeroItachi's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/meroitachi">
-  <img align="left" alt="MeroItachi's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
@@ -26,7 +23,7 @@
 
 | Facebook | Telegram | Twitter | Youtube | 
 | :---: | :---: | :---: | :---: |
-| [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-fb.svg)](https://www.facebook.com/100057718477678/) <p><b><a href="https://www.facebook.com/100057718477678/">Meroitachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tele.svg)](https://t.me/meroitachi98) <p><b><a href="https://t.me/meroitachi98">MeroItachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tw.svg)](https://twitter.com/meroitachi) <p><b><a href="https://twitter.com/meroitachi">Meroitachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitahci/meroitachi/pf/sources/qr-ytb.svg)](https://www.youtube.com/c/meroitachi) <p><b><a href="https://www.youtube.com/c/meroitachi">Meroitachi</a><b></p>  |
+| [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-fb.svg)](https://www.facebook.com/100057718477678/) <p><b><a href="https://www.facebook.com/100057718477678/">Meroitachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tele.svg)](https://t.me/meroitachi98) <p><b><a href="https://t.me/meroitachi98">MeroItachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tw.svg)](https://twitter.com/meroitachi) <p><b><a href="https://twitter.com/meroitachi">Meroitachi</a><b></p>
 <!-- email -->
 **✉️ Email:** meherabhosain7@gmail.com
 
