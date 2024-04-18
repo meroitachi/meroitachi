@@ -1,22 +1,22 @@
-## Hola, I'm [NTKhang!](https://www.facebook.com/ntkhang03) 👋
+## Hola, I'm [MeroItachi!](https://www.facebook.com/meroitachi98) 👋
 <h3 align="center">I am a student and developer from Vietnam.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meroitachi&label=Views&color=blue&style=plastic" alt="meroitachi" /> </p>
 
-<a href="https://twitter.com/ntkhang03">
-  <img align="left" alt="NTKhang's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+<a href="https://twitter.com/meroitachi">
+  <img align="left" alt="MeroItachi's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://github.com/ntkhang03">
-  <img align="left" alt="NTKhang's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/meroitachi">
+  <img align="left" alt="MeroItachi's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/nthanhkhang2003">
-  <img align="left" alt="NTKhang's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://instagram.com/meroitachi">
+  <img align="left" alt="MeroItachi's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ntkhang03">
-  <img align="left" alt="NTKhang's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/meroitachi98">
+  <img align="left" alt="MeroItachi's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/ntkhang03">
-  <img align="left" alt="NTKhang's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/meroitachi98">
+  <img align="left" alt="MeroItachi's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -26,12 +26,12 @@
 
 | Facebook | Telegram | Twitter | Youtube | 
 | :---: | :---: | :---: | :---: |
-| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/100010382497517/) <p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/ntkhang03) <p><b><a href="https://t.me/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/ntkhang03) <p><b><a href="https://twitter.com/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/NTKhang03) <p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a><b></p>  |
+| [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-fb.svg)](https://www.facebook.com/100057718477678/) <p><b><a href="https://www.facebook.com/100057718477678/">Meroitachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tele.svg)](https://t.me/meroitachi98) <p><b><a href="https://t.me/meroitachi98">MeroItachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tw.svg)](https://twitter.com/meroitachi) <p><b><a href="https://twitter.com/meroitachi">Meroitachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitahci/meroitachi/pf/sources/qr-ytb.svg)](https://www.youtube.com/c/meroiachi98) <p><b><a href="https://www.youtube.com/c/meroitahci98">Meroitachi</a><b></p>  |
 <!-- email -->
-**✉️ Email:** nthanhkhang2003@gmail.com
+**✉️ Email:** meherabhosain7@gmail.com
 
-[![Twitter: ntkhang03](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
-[![GitHub: ntkhang03](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
+[![Twitter: ntkhang03](https://img.shields.io/twitter/follow/meroitachi?style=social)](https://twitter.com/meroitaci)
+[![GitHub: ntkhang03](https://img.shields.io/github/followers/meroitachi?label=follow&style=social)](https://github.com/meroitachi)
 
 <!-- ngôn ngữ đã học -->
 **Learned Languages and Frameworks:**
@@ -47,26 +47,19 @@
 
 ## 📶 Github Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ntkhang03">
+  <img src="https://github-profile-trophy.vercel.app/?username=meroitachi">
   <br>
   <br>
   
-  <a href="https://github.com/ntkhang03">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkhang03&theme=blue-green" style="margin-top: 10px;"/>
+  <a href="https://github.com/meroitachi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meroitachi&theme=blue-green" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
   
-  <a href="https://github.com/ntkhang03">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntkhang03&show_icons=true&theme=github_dark&line_height=27" alt="NTKhang's github stats" style="margin-top: 10px;"/>
+  <a href="https://github.com/meroitachi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=meroitachi&show_icons=true&theme=github_dark&line_height=27" alt="Meroitachi's github stats" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
-
-  <a href="https://github.com/fb-chat-api/fb-chat-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fb-chat-api&repo=fb-chat-api&theme=github_dark" style="margin-top: 10px;"/>
-  </a>
-  <a href="https://github.com/ntkhang03/Goat-Bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
-  </a>
 </p>
