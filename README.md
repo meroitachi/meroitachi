@@ -21,8 +21,8 @@
 
 ## 📫 How to reach me:
 
-| Facebook | Telegram | Twitter | Youtube | 
-| :---: | :---: | :---: | :---: |
+| Facebook | Telegram | Twitter |
+| :---: | :---: | :---: |
 | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-fb.svg)](https://www.facebook.com/100057718477678/) <p><b><a href="https://www.facebook.com/100057718477678/">Meroitachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tele.svg)](https://t.me/meroitachi98) <p><b><a href="https://t.me/meroitachi98">MeroItachi</a><b></p> | [![image](https://raw.githubusercontent.com/meroitachi/meroitachi/pf/sources/qr-tw.svg)](https://twitter.com/meroitachi) <p><b><a href="https://twitter.com/meroitachi">Meroitachi</a><b></p>
 <!-- email -->
 **✉️ Email:** meherabhosain7@gmail.com
