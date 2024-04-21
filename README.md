@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meroitachi&label=Views&color=blue&style=plastic" alt="meroitachi" /> </p>
 
-<a href="https://twitter.com/meroitachi">
+<a href="https://twitter.com/meroitachi98">
   <img align="left" alt="MeroItachi's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://github.com/meroitachi">
@@ -27,7 +27,7 @@
 <!-- email -->
 **✉️ Email:** meherabhosain7@gmail.com
 
-[![Twitter: ntkhang03](https://img.shields.io/twitter/follow/meroitachi?style=social)](https://twitter.com/meroitaci)
+[![Twitter: ntkhang03](https://img.shields.io/twitter/follow/meroitachi98?style=social)](https://twitter.com/meroitachi98)
 [![GitHub: ntkhang03](https://img.shields.io/github/followers/meroitachi?label=follow&style=social)](https://github.com/meroitachi)
 
 <!-- ngôn ngữ đã học -->
